@@ -12,3 +12,5 @@ RoxygenNote: 8.0.0
 Depends: 
     R (>= 3.5)
 LazyData: true
+URL: https://github.com/Aliicooo/ENDIDataR1
+BugReports: https://github.com/Aliicooo/ENDIDataR1/issues
